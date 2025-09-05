@@ -11,7 +11,7 @@ This project analyzes **customer churn** using telecom data (7,043 customers). I
 ---
 
 ## 📑 Table of Contents  
-[key research questions](#key-research-questions)
+- [key research questions](#key-research-questions)
 - [Project Structure](#-project-structure)  
 - [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)  
 - [Regression Analysis](#-regression-analysis)  
