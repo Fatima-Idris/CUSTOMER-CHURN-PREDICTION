@@ -142,5 +142,5 @@ Proposed dashboard components:
 ## 🎯 Objective  
 This project demonstrates the ability to **analyze customer churn, design KPIs, build regression models, and recommend actionable strategies**, supporting **data-driven decision-making** in customer retention.
 
-for work kindly contact me via idrisfatimoo@gmail.com or via whatsapp on [+234 817 919 6817](+2348179196817)
+For work kindly contact me via idrisfatimoo@gmail.com or via whatsapp on [+234 817 919 6817](+2348179196817)
 
