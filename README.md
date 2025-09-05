@@ -5,12 +5,13 @@
 
 
 
-## 🚀 Executive Summary  
+## 🚀Introduction  
 This project analyzes **customer churn** using telecom data (7,043 customers). It includes **KPI measurement, regression analysis, key driver identification, segmentation, dashboard design, and retention strategies**. The objective is to turn raw customer data into **actionable insights** that reduce churn and improve retention.  
 
 ---
 
 ## 📑 Table of Contents  
+- [key research questions]-(#-kkey-research-questions)-
 - [Project Structure](#-project-structure)  
 - [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)  
 - [Regression Analysis](#-regression-analysis)  
@@ -20,7 +21,20 @@ This project analyzes **customer churn** using telecom data (7,043 customers). I
 - [Dashboard Layout](#-dashboard-layout)  
 - [Tools & Skills](#-tools--skills)  
 - [Objective](#-objective)  
+---
 
+## 🔎 Key Research Questions  
+
+1. What is the overall churn rate among telecom customers?  
+2. How does churn vary by contract type (month-to-month vs long-term contracts)?  
+3. Which payment method is most strongly associated with churn?  
+4. Do fiber optic users churn more than DSL or non-internet users?  
+5. Are senior citizens more likely to churn compared to other customers?  
+6. What is the impact of customer tenure on churn?  
+7. How do monthly charges influence the likelihood of churn?  
+8. What are the top key drivers of churn identified in the regression analysis?  
+9. Which customer segments (by demographics or services) have the highest churn risk?  
+10. What retention strategies can be applied to reduce churn effectively?
 ---
 
 ## 📂 Project Structure  
@@ -127,3 +141,5 @@ Proposed dashboard components:
 
 ## 🎯 Objective  
 This project demonstrates the ability to **analyze customer churn, design KPIs, build regression models, and recommend actionable strategies**, supporting **data-driven decision-making** in customer retention.
+
+for work kindly contact me via idrisfatimoo@gmail.com or via whatsapp on +2348179196817
