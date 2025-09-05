@@ -1,5 +1,8 @@
 # 📊 Customer Churn Analysis  
 
+
+<img width="1801" height="1373" alt="image" src="https://github.com/user-attachments/assets/a1382cb2-59f4-41f5-a7e8-3e483a215ed6" />
+
 ## 🚀 Executive Summary  
 This project analyzes **customer churn** using telecom data (7,043 customers). It includes **KPI measurement, regression analysis, key driver identification, segmentation, dashboard design, and retention strategies**. The objective is to turn raw customer data into **actionable insights** that reduce churn and improve retention.  
 
