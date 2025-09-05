@@ -107,8 +107,8 @@ Proposed dashboard components:
 - Regression & Drivers → Summary of statistical insights  
 - Retention Strategy Panel → Recommendations  
 
-📸 *(<img width="1801" height="1373" alt="image" src="https://github.com/user-attachments/assets/b165aa7d-23e3-4f1e-a71d-cf31790667e9" />
-)*  
+📸 *<img width="1801" height="1373" alt="image" src="https://github.com/user-attachments/assets/b165aa7d-23e3-4f1e-a71d-cf31790667e9" />
+*  
 
 ---
 
