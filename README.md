@@ -1,7 +1,8 @@
 # 📊 Customer Churn Analysis  
 
 
-<img width="1202" height="644" alt="image" src="https://github.com/user-attachments/assets/87da88e0-6274-4cbc-ba1b-1a5ec48a4772" />
+<img width="986" height="434" alt="image" src="https://github.com/user-attachments/assets/4e97b17d-dd3a-4561-8780-7c1bfc47a6fe" />
+
 
 
 ## 🚀 Executive Summary  
