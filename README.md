@@ -1,6 +1,7 @@
 # 📊 Customer Churn Analysis  
 
-https://www.bing.com/ck/a?!&&p=cfa01126c69e639bf563bcf0aefc9cd59b0d6ce8668f61a70a3d5f79948ea6d1JmltdHM9MTc1NzAzMDQwMA&ptn=3&ver=2&hsh=4&fclid=16496cef-7506-6053-3569-79f4742561d3&u=a1L2ltYWdlcy9zZWFyY2g_cT1jdXN0b21lciUyMGNodXJuJTIwcHJlZGljdGlvbiUyMGltYWdlJkZPUk09SVFGUkJBJmlkPUE5QkJBQjdDMjdCMDQ2MEM4RTUwRTBGMjNCQzYxRjdDMTg4QzQxRDg&ntb=1
+
+<img width="1202" height="644" alt="image" src="https://github.com/user-attachments/assets/87da88e0-6274-4cbc-ba1b-1a5ec48a4772" />
 
 
 ## 🚀 Executive Summary  
